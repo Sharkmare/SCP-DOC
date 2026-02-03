@@ -1,0 +1,56 @@
+{
+  "title": "SCP-0000",
+  "subtitle": "The Egg",
+  "header_mode": "acs",
+  "acs": {
+    "item_number": "0000",
+    "clearance_level": 3,
+    "clearance_label": "Confidential",
+    "containment_class": "euclid",
+    "secondary_class": "thaumiel",
+    "disruption_class": "vlam",
+    "risk_class": "notice",
+    "memo_url": "https://scp-wiki.wikidot.com/classification-committee-memo"
+  },
+  "sections": [
+    {
+      "heading": "Special Containment Procedures",
+      "body": [
+        "SCP-0000 is to be contained in a reinforced anomalous materials locker at Site-██.",
+        "No personnel below Clearance Level 3 may initiate testing without written authorization."
+      ]
+    },
+    {
+      "heading": "Description",
+      "body": [
+        "SCP-0000 is an anomalous object with properties that require containment procedures.",
+        "Further details withheld pending review."
+      ]
+    },
+    {
+      "heading": "Addendum 1",
+      "kind": "addendum",
+      "body": [
+        "Addendum text goes here."
+      ]
+    },
+    {
+      "heading": "Interview Log A",
+      "kind": "log",
+      "body": [
+        "INTERVIEWER: Dr. █████",
+        "INTERVIEWED: Subject",
+        "",
+        "[BEGIN LOG]",
+        "00:00 Subject refuses to answer.",
+        "00:02 Interview terminated.",
+        "[END LOG]"
+      ]
+    }
+  ],
+  "footer": {
+    "left": "« Previous",
+    "center": "SCP-0000",
+    "right": "Next »"
+  }
+}
