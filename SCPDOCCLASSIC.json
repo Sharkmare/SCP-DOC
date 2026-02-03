@@ -1,0 +1,37 @@
+{
+  "header_mode": "classic",
+  "title": "SCP-0000",
+  "subtitle": "An Inside Joke Between Authors",
+  "classic": {
+    "item_number": "SCP-0000",
+    "object_class": "Keter"
+  },
+  "sections": [
+    {
+      "heading": "Special Containment Procedures",
+      "body": [
+        "SCP-0000 is to be conceptually isolated from Foundation ontological frameworks.",
+        "No attempts to redefine SCP-0000 as an instance of any known classification system are permitted."
+      ]
+    },
+    {
+      "heading": "Description",
+      "body": [
+        "SCP-0000 is a meta-anomalous phenomenon involving the categorization of abstract entities.",
+        "SCP-0000 demonstrates resistance to conventional containment paradigms."
+      ]
+    },
+    {
+      "heading": "Addendum 0000-1",
+      "kind": "addendum",
+      "body": [
+        "Further analysis pending approval from O5 Command."
+      ]
+    }
+  ],
+  "footer": {
+    "left": "« SCP-2718",
+    "center": "SCP-0000",
+    "right": "SCP-2720 »"
+  }
+}
